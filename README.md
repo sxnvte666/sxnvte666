@@ -9,6 +9,7 @@ linux enthusiast - os tinkerer - math aspirant - average music enjoyer
 ### currently learning
 - rust
 - deeper understanding of linux
+- ai??
 
 ### [based](https://music.apple.com/us/song/lucifer/322166783)
 
